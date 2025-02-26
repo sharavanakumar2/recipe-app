@@ -22,7 +22,7 @@ This is my Recipe API, a backend application built with Node.js, Express.js, and
 1.  **Clone the repository:**
 
     ```bash
-    git clone <YOUR_GITHUB_REPOSITORY_URL>
+    git clone https://github.com/sharavanakumar2/recipe-app.git
     cd recipe-app
     ```
 
